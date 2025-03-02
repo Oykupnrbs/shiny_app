@@ -30,4 +30,4 @@ This application makes complex cell data more meaningful to you and presents you
 
 **Upload Your File:** When you open this app, you will see File Upload Button. You should upload a zipfile which contains .h5ad file.
 
-**UMAP visualization:** After you upload the file, this app will unzip your file and process it. Finally, you will see UMAP map. Also, you can see that the file contains which cell groups.
+**UMAP visualization:** After you upload the file, this app will unzip your file and process it. Finally, you will see UMAP map. Also, you can see which cell groups the file contains.
