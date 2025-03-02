@@ -1,8 +1,8 @@
-#**Interactive Single Cell UMAP Viewer**
+# **Interactive Single Cell UMAP Viewer**
 
 With this web application, you can visualize single-cell RNA-seq data stored in .h5ad format within a zip file.
 
-##**Requirements**
+## **Requirements**
 
 **shiny** for creating the web application.
 
@@ -20,11 +20,11 @@ Python 3.8 or higher.
       
       `pip install shiny scanpy matplotlib`
 
-##**Why do you use this app?**
+## **Why do you use this app?**
 
 This application makes complex cell data more meaningful to you and presents you with a visual. With this app, you can see different types of cells and how they related to each other.
 
-##**How can you use this app?**
+## **How can you use this app?**
 
 **Run the App:** 
 
